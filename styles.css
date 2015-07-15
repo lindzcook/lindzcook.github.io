@@ -3,6 +3,7 @@ body {
 	background-image: url(grey/grey_@2X.png);
 	padding-left: 10%;
 	padding-right: 10%;
+	
 	font-family: 'Poiret One', sans-serif;
 }
 
@@ -66,7 +67,7 @@ h3{
 }
 
 @media screen and (max-width: 480px) {
-body { margin: 40px auto 10px; }
-h1 { font-size: 220%; line-height: 90%; }
-p { font-size: 100%; line-height: 160%; }
+body{
+	width: 100%;
+}
 }
