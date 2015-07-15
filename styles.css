@@ -3,8 +3,9 @@ body {
 	background-image: url(grey/grey_@2X.png);
 	padding-left: 10%;
 	padding-right: 10%;
-	
-	font-family: 'Poiret One', sans-serif;
+
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
 }
 
 h1 {
