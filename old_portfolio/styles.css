@@ -1,0 +1,74 @@
+
+body {
+	background-image: url(grey/grey_@2X.png);
+	padding-left: 10%;
+	padding-right: 10%;
+
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+}
+
+h1 {
+	font-family: 'Marcellus', serif;
+	font-size: 60px; 
+	color: black;
+	text-align: center;
+	
+}
+
+h2 {
+	font-family: 'Marcellus', serif;
+	font-size: 40px; 
+	color: black;
+	text-align: center;
+	
+}
+
+#profileimage {
+    border-radius: 50%;
+    border: 10px solid #8BA870;
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+p {
+	color: #686868 ;
+	font-size: 25px;
+}
+
+a{
+	color: #8BA870;
+	
+}
+
+a:hover{
+	color:#465438;
+}
+
+.littleicons{
+	font-size: 18px;
+	text-align: center;
+}
+
+.littleicons a{
+	text-decoration: none;
+	color: #686868;
+}
+
+.highlight:hover{
+	color:black;
+	text-decoration: underline;
+}
+
+
+
+h3{
+	font-size: 30px;
+}
+
+@media screen and (max-width: 480px) {
+body{
+	width: 100%;
+}
+}
